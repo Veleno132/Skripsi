@@ -11,14 +11,14 @@ Each file consist of 10 columns:
 1) Time - time in ms;
 2-9) Channel - eightEMG channels of MYO Thalmic bracelet;
 10) Class  –thelabel of gestures: 
-0 - unmarked data,
-1 - hand at rest, 
-2 - hand clenched in a fist, 
-3 - wrist flexion,
-4 – wrist extension,
-5 – radial deviations,
-6 - ulnar deviations,
-7 - extended palm (the gesture was not performed by all subjects).
+* 0 - unmarked data,
+* 1 - hand at rest, 
+* 2 - hand clenched in a fist, 
+* 3 - wrist flexion,
+* 4 – wrist extension,
+* 5 – radial deviations,
+* 6 - ulnar deviations,
+* 7 - extended palm (the gesture was not performed by all subjects).
 
 
 
